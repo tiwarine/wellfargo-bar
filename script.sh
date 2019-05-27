@@ -8,3 +8,4 @@ echo "testing" >> test
 ls -ltr
 echo "$Environment for $Variable" >> test
 
+echo "[INFO] GIT Jenkins Integratioon Demo"
